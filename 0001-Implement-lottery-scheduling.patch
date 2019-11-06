@@ -1,6 +1,4 @@
-From 7640770e3f58138154e9701ff025c7effbabd78a Mon Sep 17 00:00:00 2001
-From: avaiyang <avaiyanggarg@gmail.com>
-Date: Fri, 6 Apr 2018 22:18:58 -0400
+From: Ritik rai (ritikrai999@gmail.com) 
 Subject: [PATCH 8/8] Implement lottery scheduling
 
 ---
